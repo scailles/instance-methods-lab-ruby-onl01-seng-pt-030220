@@ -1,1 +1,11 @@
 class Dog
+  
+  
+  
+  
+  
+  
+  
+  
+  
+end
